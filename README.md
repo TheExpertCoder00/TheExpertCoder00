@@ -27,6 +27,7 @@
 
 ## 📜 Certificates
 [![Machine Learning Certificate](Coursera MachineLearning.pdf)](Coursera MachineLearning.pdf)
+
 [![Game Development Specialization Certificate](Coursera GameMaker.pdf)](Coursera GameMaker.pdf)
 
 ## 📬 Contact
