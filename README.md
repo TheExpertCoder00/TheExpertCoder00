@@ -26,8 +26,8 @@
 - Gaming
 
 ## 📜 Certificates
-![Machine Learning Certificate](Coursera%20MachineLearning.pdf)
-![Game Development Specialization Certificate](Coursera%20GameMaker.pdf)
+[![Machine Learning Certificate](Coursera MachineLearning.pdf)](Coursera MachineLearning.pdf)
+[![Game Development Specialization Certificate](Coursera GameMaker.pdf)](Coursera GameMaker.pdf)
 
 ## 📬 Contact
 - **Email:** guptapurna27@gmail.com
