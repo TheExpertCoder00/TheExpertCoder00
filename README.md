@@ -1,4 +1,4 @@
-# Hi, I'm TheExpertCoder00 👋
+# Hi, I'm Purna (aka TheExpertCoder00) 👋
 
 ## 🎓 Education
 - Currently attending **Moscrop Secondary School**
@@ -26,9 +26,8 @@
 - Gaming
 
 ## 📜 Certificates
-[![Machine Learning Certificate](Coursera MachineLearning.pdf)](Coursera MachineLearning.pdf)
-
-[![Game Development Specialization Certificate](Coursera GameMaker.pdf)](Coursera GameMaker.pdf)
+📜 [Machine Learning Certificate](Coursera%20MachineLearning.pdf)  
+🎮 [Game Development Certificate](Coursera%20GameMaker.pdf)
 
 ## 📬 Contact
 - **Email:** guptapurna27@gmail.com
