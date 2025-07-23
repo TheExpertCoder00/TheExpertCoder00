@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm TheExpertCoder00 👋
 
-<!--
-**TheExpertCoder00/TheExpertCoder00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- Currently attending **Moscrop Secondary School**
 
-Here are some ideas to get you started:
+## 💡 Top Skills
+- **Python**
+- **JavaScript**
+- **Machine Learning**
+- **HTML**
+- **CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏀 Favorite Project
+- **Under Construction:** [basketballbox.xyz](https://basketballbox.xyz)  
+  _I'm actively developing this right now!_  
+  _Projected finish: August 15_
+
+## 👨‍💻 About Me
+- I love playing and making games
+- Enjoy helping others and working on creative projects
+- Always eager to learn and explore new technologies
+
+## 🏏 Hobbies
+- Cricket
+- Basketball
+- Gaming
+
+## 📜 Certificates
+![Machine Learning Certificate](Coursera%20MachineLearning.pdf)
+![Game Development Specialization Certificate](Coursera%20GameMaker.pdf)
+
+## 📬 Contact
+- **Email:** guptapurna27@gmail.com
+- **Discord:** thatcricketfan
+
+---
+Feel free to reach out if you want to collaborate or just chat!
