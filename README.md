@@ -13,7 +13,7 @@
 ## 🏀 Favorite Project
 - **Under Construction:** [basketballbox.xyz](https://basketballbox.xyz)  
   _I'm actively developing this right now!_  
-  _Projected finish: August 15_
+  _Projected finish: August 30_
 
 ## 👨‍💻 About Me
 - I love playing and making games
